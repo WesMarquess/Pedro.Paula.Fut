@@ -101,3 +101,7 @@ Os requisitos nao funcionais foram reorganizados segundo as oito caracteristicas
 3. Definir o modelo de dados de roles, avaliacoes, oportunidades e perfis.
 4. Criar um prototipo da busca e da pagina de detalhes.
 5. Implementar o MVP com dados reais de um grupo pequeno de parceiros.
+
+## Status da versao inicial
+
+Este conjunto de documentos marca a base do produto para validacao do conceito e da proposta de valor do FIND MEU ROLE. A proxima etapa e transformar essas definicoes em prototipo e validacao de fluxo com usuarios reais.
