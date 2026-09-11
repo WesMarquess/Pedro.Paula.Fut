@@ -69,14 +69,9 @@ Detalhes de cada perfil estao em [docs/personas/README.md](docs/personas/README.
 - RF-08: permitir que um usuario manifeste interesse em uma oportunidade.
 - RF-09: permitir que administradores moderem roles, usuarios e avaliacoes.
 
-## Requisitos nao funcionais iniciais
+## Requisitos de qualidade
 
-- RNF-01: a experiencia principal deve funcionar bem em dispositivos moveis.
-- RNF-02: dados pessoais e contatos devem ser protegidos por autenticacao e autorizacao.
-- RNF-03: avaliacoes devem ser rastreaveis ao usuario que participou do role.
-- RNF-04: o sistema deve impedir ou sinalizar conteudo abusivo, fraudulento ou duplicado.
-- RNF-05: buscas e listagens devem apresentar resposta adequada para uso interativo.
-- RNF-06: a interface deve ser acessivel, legivel e utilizavel por teclado e leitor de tela quando aplicavel.
+Os requisitos nao funcionais foram reorganizados segundo as oito caracteristicas da ISO/IEC 25010:2011: adequacao funcional, eficiencia de desempenho, compatibilidade, usabilidade, confiabilidade, seguranca, manutenibilidade e portabilidade. Cada requisito possui criterio de aceitacao e rastreabilidade por persona em [docs/product/requisitos.md](docs/product/requisitos.md).
 
 ## Jornada principal do usuario
 
